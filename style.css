@@ -1,0 +1,50 @@
+table, tr, td{
+    text-align: center;
+}
+        td{
+            border: 1px solid black;
+            padding: 8px 24px;
+            font-size: 18px;
+        }
+        .orange{
+            background-color: rgb(230, 160, 32);
+        }
+        .red{
+            background-color: rgb(238, 66, 66);
+        }
+        .purple{
+            background-color: rgb(207, 55, 207);
+        }
+        .green{
+            background-color: rgb(87, 226, 87);
+        }
+        .gray{
+            background-color: gray;
+        }
+        .yellow{
+            background-color: rgb(235, 235, 71);
+        }
+        .text-black{
+            color: black;
+        }
+        .text-green{
+            color: green;
+        }
+        .text-blue{
+            color: blue;
+        }
+        .text-white{
+            color: white;
+        }
+        .text-red{
+            color: rgb(223, 16, 16);
+        }
+        .border-none{
+            border: none;
+        }
+        .center{
+            text-align: center;
+        }
+        .style{
+            background-color: rgb(236, 163, 73);
+        }
